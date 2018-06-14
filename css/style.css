@@ -26,6 +26,11 @@ h1 {
   line-height: 1.5;
 }
 
+.cards .ten .jack .queen .king .ace {
+  height: 50%;
+  width: 50%;
+}
+
 .container {
   -webkit-perspective: 1000;
           perspective: 1000;

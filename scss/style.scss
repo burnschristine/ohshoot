@@ -63,6 +63,12 @@ h1 {
 
 }
 
+.cards .ten .jack .queen .king .ace {
+  height: 50%;
+  width: 50%;
+}
+
+
 .container:not(.chosen) .card:hover {
   transition: all 0.2s linear;
   margin-top: -2.5vw;
@@ -90,8 +96,9 @@ h1 {
 
 #reset {
   position: absolute;
-  right: 14vw;
-  top: 5vw;
+  left: zero;
+  right: zero;
+  margin: auto;
   width: 7em;
   background: #321910;
   text-align: center;
